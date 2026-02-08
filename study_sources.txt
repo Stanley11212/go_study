@@ -1,0 +1,3 @@
+https://willh.gitbook.io/build-web-application-with-golang-zhtw/02.0
+
+https://www.w3schools.com/go/go_syntax.php
